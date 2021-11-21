@@ -26,8 +26,8 @@ public class App {
         switch(opcion){
             case 1:
             System.out.println("Ingrese un numero:");
-            int valor=re.factorial(sc.nextInt());
-            System.out.println(valor); break;
+            //long valor=re.factorialBig(sc.nextInt());
+            System.out.println(re.factorialBig(sc.nextInt())); break;
 
             default: System.out.println("Opcion no existe!");
         }
