@@ -1,0 +1,1 @@
+P1	Nike	40	Hombre	Zapatilla	P01	80.0	30	Soles	0.2
